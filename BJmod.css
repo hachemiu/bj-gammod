@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: #016f32;
+    color: azure;
+    font-family: sans-serif; /* Added font family */
+}
+
+h1 {
+    color: goldenrod; /* Changed color for better contrast */
+}
